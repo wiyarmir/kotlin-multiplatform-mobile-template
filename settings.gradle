@@ -1,0 +1,9 @@
+rootProject.name = 'kotlin-multiplatform-mobile-template'
+def buildAndroid = properties['org.gradle.project.buildAndroid'].toBoolean()
+if (buildAndroid) {
+    include 'android'
+}
+
+include 'common'
+
+enableFeaturePreview('GRADLE_METADATA')
