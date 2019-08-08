@@ -9,6 +9,10 @@ Template that will give you a ready-to-go project including:
 - iOS App project with KotlinNative at [ios/](/ios)
 - Shared network, domain and presentation at [common/](/common)
 
+*Looking for a project with Backend and Web as well? It's here: https://github.com/wiyarmir/kotlin-multiplatform-template*
+
+*Looking for a project with just Backend and Web? It's here: https://github.com/wiyarmir/kotlin-multiplatform-frontend-template*
+
 ## Building and running the project
 
 ### Android
