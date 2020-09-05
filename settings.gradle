@@ -5,5 +5,3 @@ if (buildAndroid) {
 }
 
 include 'common'
-
-enableFeaturePreview('GRADLE_METADATA')
