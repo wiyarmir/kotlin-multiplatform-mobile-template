@@ -1,13 +1,13 @@
 object Versions {
-    const val androidGradlePlugin = "3.3.0"
-    const val detekt = "1.0.0-RC14"
+    const val androidGradlePlugin = "4.0.0"
+    const val detekt = "1.9.1"
     const val gson = "2.8.0"
     const val junit = "4.12"
-    const val kotlin = "1.3.41"
-    const val kotlinxCoroutines = "1.2.1"
-    const val ktor = "1.2.2"
+    const val kotlin = "1.4.0"
+    const val kotlinxCoroutines = "1.3.7"
+    const val ktor = "1.4.0"
     const val mockitoKotlin = "2.1.0"
-    const val serialization = "0.11.1"
+    const val serialization = "1.0.0-RC"
     const val okhttp = "4.0.1"
 }
 
